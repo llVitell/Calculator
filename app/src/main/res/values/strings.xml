@@ -20,4 +20,5 @@
     <string name="zero">0</string>
     <string name="point">.</string>
     <string name="erase">E</string>
+    <string name="textView">0</string>
 </resources>
